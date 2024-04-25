@@ -13,6 +13,10 @@ termcolor = "^2.4.0"
 blessed = "^1.20.0"
 blessings = "^1.7"
 python-decouple = "^3.8"
+ccxt = "^4.3.6"
+schedule = "^1.2.1"
+hyperliquid-python-sdk = "^0.3.0"
+pandas = "^2.2.2"
 
 
 [build-system]
